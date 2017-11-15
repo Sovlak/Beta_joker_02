@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.header{
+  height: 70px;
+    width: auto;
+    background-color: cornflowerblue;
+    padding-left:10px;
+    display: flex;
+   
+}
+.header_s{
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.logo{
+     display: flex;
+    box-sizing: border-box;
+}
+.logo_joker{
+    margin-left:50px;
+    margin-top: 20px;
+}
+.Panel_Control{
+    height: 220px;
+    width: 220px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top:30px;
+}
+.Panel_Razdels{
+    height: 150px;
+    width: 220px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.Panel_Categori{
+    height: 350px;
+    width: 220px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.Panel_Top{
+     height: 230px;
+    width: 220px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px
+}
+.Panel_Gifts{
+    height: 140px;
+    width: 220px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-left:10px;
+    box-sizing: border-box;
+    padding-top: 30px;
+}
+.Panel_Coments{  
+    height: 200px;
+    width: 220px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px
+}
+.Panel_Autor{  
+    height: 200px;
+    width: 220px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px
+}
+.Panel_Autor_Mothng{  
+    height: 200px;
+    width: 220px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px
+}
+.Panel_Opros{
+    height: 100px;
+    width: 220px;
+    background-color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px 
+}
+.Panel_SMS{
+    
+    
+}
+.header_sh{
+    color: white;
+    text-decoration: none;
+    margin-left: 265px;
+    margin-top: 25px;
+}
+.header_she{
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.logo_button{
+    color:blue;
+    text-decoration: none;
+    margin-left: 25px;
+    margin-top: 35px;
+}
+.logo_button_1 {
+    color:yellow;
+    text-decoration: none;
+    margin-left: 295px;
+    margin-top: 35px;
+ 
+}
+.logo_poisk{
+    width: 150px;
+    height:14px;
+    margin-top: 35px;
+    margin-left: 215px;
+    
+}
+.logo_input{
+      width: 55px;
+    height:20px;
+    margin-top: 35px;
+    margin-left: 5px;
+}
+.Golo{
+    height: 500px;
+}
+.panel{
+    height: 100px;
+    width: 150px;
+}
+.body_no{
+    display: flex;
+}
+.button_golo{
+    margin-left: 20px;
+    margin-top: 5px;
+   height:30px;
+    color:darkslategray;
+}
+.Panel_reg{
+  margin-left: 20px;
+    margin-top: 10px;
+     
+}
+.hobo_1{
+    background-color: cadetblue;
+    height: 300px;
+    width: 1050px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
